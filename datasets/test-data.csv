@@ -1,0 +1,113 @@
+,subject,predicate,object
+0,contribution,One Single Deep Bidirectional LSTM Network for Word Sense Disambiguation of Text Data,Word Sense Disambiguation
+1,contribution,Joint Learning of the Embedding of Words and Entities for Named Entity Disambiguation,Named Entity Disambiguation
+2,contribution,Pre-training of Deep Contextualized Embeddings of Words and Entities for Named Entity Disambiguation,Named Entity Disambiguation
+3,contribution,Neural Sequence Learning Models for Word Sense Disambiguation,Word Sense Disambiguation
+4,contribution,Semi-supervised Word Sense Disambiguation with Neural Models,Semi-supervised Word Sense Disambiguation
+5,contribution,Word Sense Disambiguation using a Bidirectional LSTM,Word Sense Disambiguation
+6,contribution,Incorporating Glosses into Neural Word Sense Disambiguation,Neural Word Sense Disambiguation
+7,contribution,Does BERT Make Any Sense ? Interpretable Word Sense Disambiguation with Contextualized Embeddings,Word Sense Disambiguation
+8,contribution,Sense Vocabulary Compression through the Semantic Knowledge of WordNet for Neural Word Sense Disambiguation,Neural Word Sense Disambiguation
+9,contribution,Deep contextualized word representations,Deep contextualized word representations
+10,contribution,Learning Distributed Representations of Texts and Entities from Knowledge Base,Learning Distributed Representations of Texts and Entities from Knowledge Base
+11,contribution,Incorporating Glosses into Neural Word Sense Disambiguation,Neural Word Sense Disambiguation
+12,contribution,Knowledge - based Word Sense Disambiguation using Topic Models,Knowledge - based Word Sense Disambiguation
+13,contribution,Improving the Coverage and the Generalization Ability of Neural Word Sense Disambiguation through Hypernymy and Hyponymy Relationships,Neural Word Sense Disambiguation
+14,contribution,Deep Joint Entity Disambiguation with Local Neural Attention,Joint Entity Disambiguation
+15,contribution,Mixing Context Granularities for Improved Entity Linking on Question Answering Data across Entity Categories,Entity Linking
+16,contribution,A Deep Ensemble Model with Slot Alignment for Sequence - to - Sequence Natural Language Generation,l
+17,contribution,Deep Graph Convolutional Encoders for Structured Data to Text Generation,e
+18,contribution,Copy Mechanism and Tailored Training for Character - based Data - to - text Generation,a
+19,contribution,Pragmatically Informative Text Generation,r
+20,contribution,Step - by - Step : Separating Planning from Realization in Neural Data - to - Text Generation,n
+21,contribution,A Hierarchical Model for Data - to - Text Generation,i
+22,contribution,BRIDGING THE DOMAIN GAP IN CROSS - LINGUAL DOCUMENT CLASSIFICATION,n
+23,contribution,A Corpus for Multilingual Document Classification in Eight Languages,g
+24,contribution,Supervised and Semi- Supervised Text Categorization using LSTM for Region Embeddings, 
+25,contribution,HDLTex : Hierarchical Deep Learning for Text Classification,w
+26,contribution,Bag of Tricks for Efficient Text Classification,o
+27,contribution,ADVERSARIAL TRAINING METHODS FOR SEMI - SUPERVISED TEXT CLASSIFICATION,r
+28,contribution,Learning Word Representations with Cross - Sentence Dependency for End - to - End Co -reference Resolution,d
+29,contribution,A Mention - Ranking Model for Abstract Anaphora Resolution, 
+30,contribution,Learning Global Features for Coreference Resolution,e
+31,contribution,End - to - end Neural Coreference Resolution,m
+32,contribution,Semantic Alignment : Finding Semantically Consistent Ground - truth for Facial Landmark Detection,b
+33,contribution,Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression,e
+34,contribution,DeCaFA : Deep Convolutional Cascade for Face Alignment In The Wild,d
+35,contribution,Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network,d
+36,contribution,Face Alignment using a 3D Deeply - initialized Ensemble of Regression Trees,i
+37,contribution,Adaptive Wing Loss for Robust Face Alignment via Heatmap Regression,n
+38,contribution,Unsupervised Training for 3D Morphable Model Regression,g
+39,contribution,Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks,s
+40,contribution,Facial Landmarks Detection by Self - Iterative Regression based Landmarks - Attention Network,Sequence - to - Sequence Natural Language Generation
+41,contribution,Deep Alignment Network : A convolutional neural network for robust face alignment,Structured Data to Text Generation
+42,contribution,Dense Face Alignment,Character - based Data - to - text Generation
+43,contribution,Faster Than Real - time Facial Alignment : A 3D Spatial Transformer Network Approach in Unconstrained Poses,Text Generation
+44,contribution,Look at Boundary : A Boundary - Aware Face Alignment Algorithm,D
+45,contribution,"3D Morphable Models ( 3 DMMs ) are powerful statistical models of 3D facial shape and texture , and among the stateof - the - art methods for reconstructing facial shape from single images .",a
+46,contribution,Face Alignment Across Large Poses : A 3D Solution,t
+47,contribution,Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D - Assisted Self - Supervised Learning,a
+48,contribution,"HyperFace : A Deep Multi-task Learning Framework for Face Detection , Landmark Localization , Pose Estimation , and Gender Recognition", 
+49,contribution,Finding Tiny Faces,-
+50,contribution,"Detecting faces in an image is considered to be one of the most practical tasks in computer vision applications , and many studies are proposed from the beginning of the computer vision research .", 
+51,contribution,Selective Refinement Network for High Performance Face Detection,t
+52,contribution,Recurrent Scale Approximation for Object Detection in CNN,o
+53,contribution,Aggregate Channel Features for Multi-view Face Detection, 
+54,contribution,RetinaFace : Single - stage Dense Face Localisation in the Wild,-
+55,contribution,Robust Face Detection via Learning Small Faces on Hard Images, 
+56,contribution,"We propose a method to address challenges in unconstrained face detection , such as arbitrary pose variations and occlusions .",T
+57,contribution,A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection,e
+58,contribution,"In this paper , we propose a novel face detection network with three novel contributions that address three key aspects of face detection , including better feature learning , progressive loss design and anchor assign based data augmentation , respectively .",x
+59,contribution,CMS- RCNN : Contextual Multi- Scale Region - based CNN for Unconstrained Face Detection,t
+60,contribution,Region proposal mechanisms are essential for existing deep learning approaches to object detection in images ., 
+61,contribution,WIDER FACE : A Face Detection Benchmark,G
+62,contribution,"Abstract - Face detection and alignment in unconstrained environment are challenging due to various poses , illuminations and occlusions .",e
+63,contribution,Face Detection Using Improved Faster RCNN,n
+64,contribution,"Although tremendous strides have been made in face detection , one of the remaining open challenges is to achieve real - time speed on the CPU as well as maintain high performance , since effective models for face detection tend to be computationally prohibitive .",e
+65,contribution,Supervised Transformer Network for Efficient Face Detection,r
+66,contribution,Detecting Faces Using Region - based Fully Convolutional Networks,a
+67,contribution,Text Understanding with the Attention Sum Reader Network,t
+68,contribution,Convolutional Neural Network Architectures for Matching Natural Language Sentences,i
+69,contribution,Reading Wikipedia to Answer Open-Domain Questions,o
+70,contribution,A BERT Baseline for the Natural Questions,n
+71,contribution,GLUE : A MULTI - TASK BENCHMARK AND ANALYSIS PLATFORM FOR NATURAL LANGUAGE UNDERSTAND - ING,Neural Data - to - Text Generation
+72,contribution,U - Net : Machine Reading Comprehension with Unanswerable Questions,Data - to - Text Generation
+73,contribution,A Deep Cascade Model for Multi - Document Reading Comprehension,T
+74,contribution,Cut to the Chase : A Context Zoom - in Network for Reading Comprehension,e
+75,contribution,Stochastic Answer Networks for Natural Language Inference,x
+76,contribution,"Machine reading systems can be tested on their ability to answer questions posed on the contents of documents that they have seen , but until now large scale training and test datasets have been missing for this type of evaluation .",t
+77,contribution,Neural Tree Indexers for Text Understanding, 
+78,contribution,Natural Language Comprehension with the EpiReader,C
+79,contribution,Multi- task Sentence Encoding Model for Semantic Retrieval in Question Answering Systems,l
+80,contribution,Dynamic Self - Attention : Computing Attention over Words Dynamically for Sentence Embedding,a
+81,contribution,Exploring Question Understanding and Adaptation in Neural - Network - Based Question Answering,s
+82,contribution,Published as a conference paper at ICLR 2017 DYNAMIC COATTENTION NETWORKS FOR QUESTION ANSWERING,s
+83,contribution,SDNET : CONTEXTUALIZED ATTENTION - BASED DEEP NETWORK FOR CONVERSATIONAL QUESTION AN - SWERING,i
+84,contribution,A Simple and Effective Approach to the Story Cloze Test,f
+85,contribution,MemoReader : Large - Scale Reading Comprehension through Neural Memory Controller,i
+86,contribution,Parameter Re-Initialization through Cyclical Batch Size Schedules,c
+87,contribution,FINDING REMO ( RELATED MEMORY OBJECT ) : A SIMPLE NEURAL ARCHITECTURE FOR TEXT BASED REASONING,a
+88,contribution,Sentence Similarity Learning by Lexical Decomposition and Composition,t
+89,contribution,PHASE CONDUCTOR ON MULTI - LAYERED ATTEN - TIONS FOR MACHINE COMPREHENSION,i
+90,contribution,Natural Language Inference by Tree - Based Convolution and Heuristic Matching,o
+91,contribution,TRACKING THE WORLD STATE WITH RECURRENT ENTITY NETWORKS,n
+92,contribution,Neural Models for Reasoning over Multiple Mentions using Coreference,T
+93,contribution,Neural Natural Language Inference Models Enhanced with External Knowledge,e
+94,contribution,Attention - over - Attention Neural Networks for Reading Comprehension,x
+95,contribution,Deep Fusion LSTMs for Text Semantic Matching,t
+96,contribution,Learning Natural Language Inference using Bidirectional LSTM model and Inner- Attention, 
+97,contribution,Scaling Memory - Augmented Neural Networks with Sparse Reads and Writes,C
+98,contribution,Cloze - driven Pretraining of Self - attention Networks,l
+99,contribution,What Do Recurrent Neural Network Grammars Learn About Syntax ?,a
+100,contribution,Parsing as Language Modeling,s
+101,contribution,Recent work has proposed several generative neural models for constituency parsing that achieve state - of - the - art results .,s
+102,contribution,In- Order Transition - based Constituent Parsing,i
+103,contribution,SJTU- NLP at SemEval-2018 Task 9 : Neural Hypernym Discovery with Term Embeddings,f
+104,contribution,Hypernyms under Siege : Linguistically - motivated Artillery for Hypernymy Detection,i
+105,contribution,Supervised Distributional Hypernym Discovery via Domain Adaptation,c
+106,contribution,Hypernym discovery aims to discover the hypernym word sets given a hyponym word and proper corpus .,a
+107,contribution,ADAPT at SemEval- 2018 Task 9 : Skip - Gram Word Embeddings for Unsupervised Hypernym Discovery in Specialised Corpora,t
+108,contribution,"This form of training , which accounts for model predictions at training time , improves parsing accuracies .",i
+109,contribution,Structured Training for Neural Network Transition - Based Parsing,o
+110,contribution,An improved neural network model for joint POS tagging and dependency parsing,n
+111,contribution,Globally Normalized Transition - Based Neural Networks,T

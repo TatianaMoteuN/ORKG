@@ -1,0 +1,284 @@
+,subject,predicate,object
+0,contribution,SCIBERT : A Pretrained Language Model for Scientific Text,Pretrained Language Model
+1,contribution,Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme,Joint Extraction of Entities and Relations
+2,contribution,Joint entity recognition and relation extraction as a multi-head selection problem,Joint entity recognition and relation extraction
+3,contribution,Data and text mining BioBERT : a pre-trained biomedical language representation model for biomedical text mining,pre-trained biomedical language representation
+4,contribution,Semantic Relation Classification via Bidirectional LSTM Networks with Entity - aware Attention using Latent Entity Typing,Semantic Relation Classification
+5,contribution,Adversarial training for multi-context joint entity and relation extraction,multi-context joint entity and relation extraction
+6,contribution,Graph Convolution over Pruned Dependency Trees Improves Relation Extraction,Relation Extraction
+7,contribution,End - to - end neural relation extraction using deep biaffine attention,End - to - end neural relation extraction
+8,contribution,End - to - End Relation Extraction using LSTMs on Sequences and Tree Structures,End - to - End Relation Extraction
+9,contribution,Extracting Multiple - Relations in One - Pass with Pre-Trained Transformers,Extracting Multiple - Relations in One - Pass
+10,contribution,Translations as Additional Contexts for Sentence Classification,Sentence Classification
+11,contribution,Supervised and Semi- Supervised Text Categorization using LSTM for Region Embeddings,Supervised and Semi- Supervised Text Categorization
+12,contribution,Bag of Tricks for Efficient Text Classification,Efficient Text Classification
+13,contribution,Investigating Capsule Networks with Dynamic Routing for Text Classification,Text Classification
+14,contribution,Universal Sentence Encoder,Universal Sentence Encoder
+15,contribution,On the Role of Text Preprocessing in Neural Network Architectures : An Evaluation Study on Text Categorization and Sentiment Analysis,Text Preprocessing in Neural Network Architectures
+16,contribution,Learning Context - Sensitive Convolutional Filters for Text Processing,Text Processing
+17,contribution,Universal Language Model Fine - tuning for Text Classification,Text Classification
+18,contribution,Character - level Convolutional Networks for Text Classification,Text Classification
+19,contribution,Baseline Needs More Love : On Simple Word - Embedding - Based Models and Associated Pooling Mechanisms,Simple Word - Embedding - Based Models
+20,contribution,Under review as a conference paper at ICLR 2018 COMPRESSING WORD EMBEDDINGS VIA DEEP COMPOSITIONAL CODE LEARNING,COMPRESSING WORD EMBEDDINGS
+21,contribution,"We propose a new simple network architecture , the Transformer , based solely on attention mechanisms , dispensing with recurrence and convolutions entirely .",Neural Machine Translation in Linear Time
+22,contribution,"Conditional computation , where parts of the network are active on a per-example basis , has been proposed in theory as away of dramatically increasing model capacity without a proportional increase in computation .",attention mechanisms
+23,contribution,FRAGE : Frequency - Agnostic Word Representation,Conditional computation
+24,contribution,Neural machine translation ( NMT ) aims at solving machine translation ( MT ) problems using neural networks and has exhibited promising results in recent years .,increasing model capacity without a proportional increase in computation
+25,contribution,Unsupervised neural machine translation ( NMT ) is a recently proposed approach for machine translation which aims to train the model without using any labeled data .,Frequency - Agnostic Word Representation
+26,contribution,Tilde 's Machine Translation Systems for WMT 2018,Neural machine translation
+27,contribution,Learning Phrase Representations using RNN Encoder - Decoder for Statistical Machine Translation,NMT
+28,contribution,Published as a conference paper at ICLR 2015 NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE,machine translation
+29,contribution,LEARNING RECURRENT SPAN REPRESENTATIONS FOR EXTRACTIVE QUESTION ANSWERING,MT
+30,contribution,Convolutional Neural Network Architectures for Matching Natural Language Sentences,Unsupervised neural machine translation
+31,contribution,Large - scale Simple Question Answering with Memory Networks,NMT
+32,contribution,We present a memory augmented neural network for natural language understanding : Neural Semantic Encoders .,machine translation
+33,contribution,Published as a conference paper at ICLR 2017 QUERY - REDUCTION NETWORKS FOR QUESTION ANSWERING,Machine Translation
+34,contribution,Sentence Similarity Learning by Lexical Decomposition and Composition,Statistical Machine Translation
+35,contribution,A Parallel - Hierarchical Model for Machine Comprehension on Sparse Data,NEURAL MACHINE TRANSLATION
+36,contribution,Iterative Alternating Neural Attention for Machine Reading,EXTRACTIVE QUESTION ANSWERING
+37,contribution,Open Question Answering with Weakly Supervised Embedding Models,Matching Natural Language Sentences
+38,contribution,MACHINE COMPREHENSION USING MATCH - LSTM AND ANSWER POINTER,Large - scale Simple Question Answering
+39,contribution,Data and text mining BioBERT : a pre-trained biomedical language representation model for biomedical text mining,natural language understanding
+40,contribution,Neural Architectures for Named Entity Recognition,QUESTION ANSWERING
+41,contribution,Fast and Accurate Entity Recognition with Iterated Dilated Convolutions,Sentence Similarity Learning
+42,contribution,A Neural Transition - based Model for Nested Mention Recognition,Machine Comprehension on Sparse Data
+43,contribution,Robust Lexical Features for Improved Neural Network Named - Entity Recognition,Machine Reading
+44,contribution,Semi-supervised sequence tagging with bidirectional language models,Open Question Answering
+45,contribution,Deep contextualized word representations,MACHINE COMPREHENSION
+46,contribution,Sentence - State LSTM for Text Representation,pre-trained biomedical language representation
+47,contribution,"0,000 + Times Accelerated Robust Subset Selection ( ARSS )",Named Entity Recognition
+48,contribution,BERT : Pre-training of Deep Bidirectional Transformers for Language Understanding,Fast and Accurate Entity Recognition
+49,contribution,"FastSpeech : Fast , Robust and Controllable Text to Speech",Nested Mention Recognition
+50,contribution,Transfer Learning from Speaker Verification to Multispeaker Text - To - Speech Synthesis,Neural Network Named - Entity Recognition
+51,contribution,Token - Level Ensemble Distillation for Grapheme - to - Phoneme Conversion,Semi-supervised sequence tagging
+52,contribution,Sentence Compression by Deletion with LSTMs,Deep contextualized word representations
+53,contribution,Improving sentence compression by learning to predict gaze,Sentence - State LSTM for Text Representation
+54,contribution,A Language Model based Evaluator for Sentence Compression,Accelerated Robust Subset Selection
+55,contribution,Can Syntax Help ? Improving an LSTM - based Sentence Compression Model for New Domains,Language Understanding
+56,contribution,Identifying Well - formed Natural Language Questions,Text to Speech
+57,contribution,A Structured Learning Approach to Temporal Relation Extraction,Text - To - Speech Synthesis
+58,contribution,"We present CATENA , a sieve - based system to perform temporal and causal relation extraction and classification from English texts , exploiting the interaction between the temporal and the causal model .",Grapheme - to - Phoneme Conversion
+59,contribution,Deep Learning For Smile Recognition,Sentence Compression by Deletion
+60,contribution,CASCADE : Contextual Sarcasm Detection in Online Discussion Forums,sentence compression
+61,contribution,"We introduce the Self - Annotated Reddit Corpus ( SARC ) , a large corpus for sarcasm research and for training and evaluating systems for sarcasm detection .",Sentence Compression
+62,contribution,Abstractive Sentence Summarization with Attentive Recurrent Neural Networks,Sentence Compression
+63,contribution,Mixture Content Selection for Diverse Sequence Generation,Identifying Well - formed Natural Language Questions
+64,contribution,Structure - Infused Copy Mechanisms for Abstractive Summarization,Temporal Relation Extraction
+65,contribution,Cutting - off Redundant Repeating Generations for Neural Abstractive Summarization,temporal and causal relation extraction and classification
+66,contribution,Coarse-to-Fine Attention Models for Document Summarization,Smile Recognition
+67,contribution,Deep Recurrent Generative Decoder for Abstractive Text Summarization,Contextual Sarcasm Detection
+68,contribution,Concept Pointer Network for Abstractive Summarization,sarcasm detection
+69,contribution,Global Encoding for Abstractive Summarization,Abstractive Sentence Summarization
+70,contribution,Soft Layer - Specific Multi - Task Summarization with Entailment and Question Generation,Diverse Sequence Generation
+71,contribution,Entity Commonsense Representation for Neural Abstractive Summarization,Abstractive Summarization
+72,contribution,Selective Encoding for Abstractive Sentence Summarization,Neural Abstractive Summarization
+73,contribution,Ensure the Correctness of the Summary : Incorporate Entailment Knowledge into Abstractive Sentence Summarization,Document Summarization
+74,contribution,"Retrieve , Rerank and Rewrite : Soft Template Based Neural Summarization",Abstractive Text Summarization
+75,contribution,Abstractive Text Summarization by Incorporating Reader Comments,Abstractive Summarization
+76,contribution,Bottom - Up Abstractive Summarization,Abstractive Summarization
+77,contribution,Multi - level Multimodal Common Semantic Space for Image - Phrase Grounding,Multi - Task Summarization
+78,contribution,Published as a conference paper at ICLR 2018 NATURAL LANGUAGE INFERENCE OVER INTERACTION SPACE,Abstractive Summarization
+79,contribution,Natural language sentence matching is a fundamental technology for a variety of tasks .,Abstractive Sentence Summarization
+80,contribution,ReasoNet : Learning to Stop Reading in Machine Comprehension,Abstractive Sentence Summarization
+81,contribution,"Learning representations for rare words is a well - known challenge of natural language understanding , since the standard end - to - end supervised learning methods require many occurrences of each word to generalize well .",Neural Summarization
+82,contribution,Commonsense for Generative Multi - Hop Question Answering Tasks,Abstractive Text Summarization
+83,contribution,Explicit Contextual Semantics for Text Comprehension,Abstractive Summarization
+84,contribution,Directly reading documents and being able to answer questions from them is an unsolved challenge .,Image - Phrase Grounding
+85,contribution,A Parallel - Hierarchical Model for Machine Comprehension on Sparse Data,NATURAL LANGUAGE INFERENCE
+86,contribution,Evaluating Semantic Parsing against a Simple Web - based Question Answering Model,Natural language sentence matching
+87,contribution,Open Question Answering with Weakly Supervised Embedding Models,Machine Comprehension
+88,contribution,Neural Paraphrase Identification of Questions with Noisy Pretraining,Learning representations for rare words
+89,contribution,Constructing Datasets for Multi-hop Reading Comprehension Across Documents,Generative Multi - Hop Question Answering
+90,contribution,Equipping deep neural networks ( DNN ) with attention mechanisms provides an effective and parallelizable approach for context fusion and sequence compression .,Text Comprehension
+91,contribution,"As an alternative to question answering methods based on feature engineering , deep learning approaches such as convolutional neural networks ( CNNs ) and Long Short - Term Memory Models ( LSTMs ) have recently been proposed for semantic matching of questions and answers .",Directly reading documents
+92,contribution,Swag : A Large - Scale Adversarial Dataset for Grounded Commonsense Inference,Machine Comprehension
+93,contribution,TANDA : Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection,Semantic Parsing
+94,contribution,Stochastic Answer Networks for Machine Reading Comprehension,Open Question Answering
+95,contribution,Published as a conference paper at ICLR 2017 QUERY - REDUCTION NETWORKS FOR QUESTION ANSWERING,Neural Paraphrase Identification of Questions
+96,contribution,Reinforced Mnemonic Reader for Machine Reading Comprehension,Multi-hop Reading Comprehension
+97,contribution,"Machine Comprehension ( MC ) is a challenging task in Natural Language Processing field , which aims to guide the machine to comprehend a passage and answer the given question .",attention mechanisms
+98,contribution,Linguistic Knowledge as Memory for Recurrent Neural Networks,N
+99,contribution,Question Answering with Subgraph Embeddings,e
+100,contribution,Efficient and Robust Question Answering from Minimal Context over Documents,u
+101,contribution,MEMEN : Multi-layer Embedding with Memory Networks for Machine Comprehension,r
+102,contribution,A Decomposable Attention Model for Natural Language Inference,a
+103,contribution,"The latest work on language representations carefully integrates contextualized features into language model training , which enables a series of success especially in various machine reading comprehension and natural language inference tasks .",l
+104,contribution,Contextualized Word Representations for Reading Comprehension, 
+105,contribution,Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference,Q
+106,contribution,SG - Net : Syntax - Guided Machine Reading Comprehension,u
+107,contribution,A Discrete Hard EM Approach for Weakly Supervised Question Answering,e
+108,contribution,Large - scale Simple Question Answering with Memory Networks,s
+109,contribution,Dynamically Fused Graph Network for Multi-hop Reasoning,t
+110,contribution,A large annotated corpus for learning natural language inference,i
+111,contribution,Distributed Representations of Sentences and Documents,o
+112,contribution,A Question - Focused Multi- Factor Attention Network for Question Answering,n
+113,contribution,LEARNING RECURRENT SPAN REPRESENTATIONS FOR EXTRACTIVE QUESTION ANSWERING, 
+114,contribution,Explicit Utilization of General Knowledge in Machine Reading Comprehension,A
+115,contribution,Sentence Embeddings in NLI with Iterative Refinement Encoders,n
+116,contribution,Tell Me Why : Using Question Answering as Distant Supervision for Answer Justification,s
+117,contribution,FLOWQA : GRASPING FLOW IN HISTORY FOR CONVERSATIONAL MACHINE COMPREHENSION,w
+118,contribution,Multi-range Reasoning for Machine Comprehension,e
+119,contribution,"To answer the question in machine comprehension ( MC ) task , the models need to establish the interaction between the question and the context .",r
+120,contribution,"BART : Denoising Sequence - to - Sequence Pre-training for Natural Language Generation , Translation , and Comprehension",i
+121,contribution,Supervised Learning of Universal Sentence Representations from Natural Language Inference Data,n
+122,contribution,Multi - Style Generative Reading Comprehension,g
+123,contribution,We present a novel recurrent neural network ( RNN ) based model that combines the remembering ability of unitary RNNs with the ability of gated RNNs to effectively forget redundant / irrelevant information in its memory .,question answering
+124,contribution,A Multi - Stage Memory Augmented Neural Network for Machine Reading Comprehension,Grounded Commonsense Inference
+125,contribution,Massively Multilingual Sentence Embeddings for Zero - Shot Cross - Lingual Transfer and Beyond,Answer Sentence Selection
+126,contribution,Dynamic Entity Representation with Max - pooling Improves Machine Reading,Machine Reading Comprehension
+127,contribution,Modelling Interaction of Sentence Pair with Coupled- LSTMs,QUESTION ANSWERING
+128,contribution,Dynamic Integration of Background Knowledge in Neural NLU Systems,Machine Reading Comprehension
+129,contribution,MACHINE COMPREHENSION USING MATCH - LSTM AND ANSWER POINTER,Machine Comprehension ( MC )
+130,contribution,Simple and Effective Multi - Paragraph Reading Comprehension,Recurrent Neural Networks
+131,contribution,COMBINING LOCAL CONVOLUTION WITH GLOBAL SELF - ATTENTION FOR READING COMPRE - HENSION,Question Answering
+132,contribution,A Fast Unified Model for Parsing and Sentence Understanding,Question Answering
+133,contribution,Learning Natural Language Inference with LSTM,Machine Comprehension
+134,contribution,Read + Verify : Machine Reading Comprehension with Unanswerable Questions,Natural Language Inference
+135,contribution,Recurrent Neural Network - Based Sentence Encoder with Gated Attention for Natural Language Inference,language representations
+136,contribution,Learning to Compose Task - Specific Tree Structures,Reading Comprehension
+137,contribution,DCN + : MIXED OBJECTIVE AND DEEP RESIDUAL COATTENTION FOR QUESTION ANSWERING,Natural Language Inference
+138,contribution,Recurrent Relational Networks,Machine Reading Comprehension
+139,contribution,Neural Variational Inference for Text Processing Phil Blunsom 12,Weakly Supervised Question Answering
+140,contribution,The NarrativeQA Reading Comprehension Challenge,Large - scale Simple Question Answering
+141,contribution,Shortcut - Stacked Sentence Encoders for Multi- Domain Inference,Multi-hop Reasoning
+142,contribution,COARSE - GRAIN FINE - GRAIN COATTENTION NET - WORK FOR MULTI - EVIDENCE QUESTION ANSWERING,natural language inference
+143,contribution,CODAH : An Adversarially - Authored Question Answering Dataset for Common Sense,Distributed Representations of Sentences and Documents
+144,contribution,Making Neural QA as Simple as Possible but not Simpler,Question Answering
+145,contribution,Enhanced LSTM for Natural Language Inference,EXTRACTIVE QUESTION ANSWERING
+146,contribution,Published as a conference paper at ICLR 2018 LEARNING GENERAL PURPOSE DISTRIBUTED SEN - TENCE REPRESENTATIONS VIA LARGE SCALE MULTI - TASK LEARNING,Machine Reading Comprehension
+147,contribution,Multi - Perspective Context Matching for Machine Comprehension,Sentence Embeddings
+148,contribution,Long Short - Term Memory - Networks for Machine Reading,Answer Justification
+149,contribution,A Compare - Aggregate Model with Latent Clustering for Answer Selection,CONVERSATIONAL MACHINE COMPREHENSION
+150,contribution,Multi - Passage Machine Reading Comprehension with Cross - Passage Answer Verification,Machine Comprehension
+151,contribution,Neural Stored - program Memory,machine comprehension ( MC )
+152,contribution,Product - Aware Answer Generation in E - Commerce Question - Answering,Sequence - to - Sequence Pre-training
+153,contribution,Story Comprehension for Predicting What Happens Next,Supervised Learning of Universal Sentence Representations
+154,contribution,Distance - based Self - Attention Network for Natural Language Inference,Generative Reading Comprehension
+155,contribution,End - to - End Answer Chunk Extraction and Ranking for Reading Comprehension,recurrent neural network ( RNN )
+156,contribution,The concepts of unitary evolution matrices and associative memory have boosted the field of Recurrent Neural Networks ( RNN ) to state - of - the - art performance in a variety of sequential tasks .,Machine Reading Comprehension
+157,contribution,"Neural networks ( NN ) with attention mechanisms have recently proven to be successful at different computer vision ( CV ) and natural language processing ( NLP ) tasks such as image captioning , machine translation and factoid question answering .",Massively Multilingual Sentence Embeddings
+158,contribution,ORDER - EMBEDDINGS OF IMAGES AND LANGUAGE,Machine Reading
+159,contribution,DR- BiLSTM : Dependent Reading Bidirectional LSTM for Natural Language Inference,Modelling Interaction of Sentence Pair
+160,contribution,Gated - Attention Readers for Text Comprehension,Neural NLU
+161,contribution,Iterative Alternating Neural Attention for Machine Reading,MACHINE COMPREHENSION
+162,contribution,"Compare , Compress and Propagate : Enhancing Neural Architectures with Alignment Factorization for Natural Language Inference",Multi - Paragraph Reading Comprehension
+163,contribution,Semantic Sentence Matching with Densely - connected Recurrent and Co - attentive Information,READING COMPRE - HENSION
+164,contribution,Structural Embedding of Syntactic Trees for Machine Comprehension,Parsing
+165,contribution,This paper describes the KeLP system participating in the SemEval - 2016 Community Question Answering ( c QA ) task .,Sentence Understanding
+166,contribution,"is paper proposes an a ention boosted natural language inference model named a ESIM by adding word a ention and adaptive direction - oriented a ention mechanisms to the traditional Bi - LSTM layer of natural language inference models , e.g. ESIM . is makes the inference model a ESIM has the ability toe ectively learn the representation of words and model the local subsentential inference between pairs of premise and hypothesis .",Natural Language Inference
+167,contribution,Dynamic Meta - Embeddings for Improved Sentence Representations,Machine Reading Comprehension
+168,contribution,Gated Self - Matching Networks for Reading Comprehension and Question Answering,Natural Language Inference
+169,contribution,DiSAN : Directional Self - Attention Network for RNN / CNN - Free Language Understanding,Task - Specific Tree Structures
+170,contribution,FUSIONNET : FUSING VIA FULLY - AWARE ATTENTION WITH APPLICATION TO MACHINE COMPREHENSION,QUESTION ANSWERING
+171,contribution,"Recognizing textual entailment ( RTE ) is the task of determining whether two natural language sentences are ( i ) contradicting each other , ( ii ) not related , or whether ( iii ) the first sentence ( called premise ) entails the second sentence ( called hypothesis ) .",Recurrent Relational Networks
+172,contribution,Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement,Neural Variational Inference
+173,contribution,Deep Learning for Answer Sentence Selection,Reading Comprehension
+174,contribution,A Fully Attention - Based Information Retriever,Multi- Domain Inference
+175,contribution,CliCR : A Dataset of Clinical Case Reports for Machine Reading Comprehension *,MULTI - EVIDENCE QUESTION ANSWERING
+176,contribution,Simple and Effective Text Matching with Richer Alignment Features,Question Answering
+177,contribution,TRANX : A Transition - based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation,Neural QA
+178,contribution,Coarse - to - Fine Decoding for Neural Semantic Parsing,Natural Language Inference
+179,contribution,Spider : A Large - Scale Human - Labeled Dataset for Complex and Cross - Domain Semantic Parsing and Text - to - SQL Task,LEARNING GENERAL PURPOSE DISTRIBUTED SEN - TENCE REPRESENTATIONS
+180,contribution,PASSAGE RE - RANKING WITH BERT,Machine Comprehension
+181,contribution,Document Expansion by Query Prediction,Machine Reading
+182,contribution,Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations,Answer Selection
+183,contribution,Multimodal Differential Network for Visual Question Generation,Multi - Passage Machine Reading Comprehension
+184,contribution,Neural Question Generation from Text : A Preliminary Study,Neural Stored - program Memory
+185,contribution,A Deep Generative Framework for Paraphrase Generation,Product - Aware Answer Generation
+186,contribution,Learning Semantic Sentence Embeddings using Pair- wise Discriminator,Story Comprehension
+187,contribution,Contextual Inter-modal Attention for Multi-modal Sentiment Analysis,Natural Language Inference
+188,contribution,Target - Sensitive Memory Networks for Aspect Sentiment Classification,Reading Comprehension
+189,contribution,Transformation Networks for Target - Oriented Sentiment Classification,Recurrent Neural Networks ( RNN )
+190,contribution,Multi - grained Attention Network for Aspect - Level Sentiment Classification,Neural networks ( NN ) with attention mechanisms
+191,contribution,Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect - based Sentiment Analysis,ORDER - EMBEDDINGS OF IMAGES AND LANGUAGE
+192,contribution,Exploiting Document Knowledge for Aspect - level Sentiment Classification,Natural Language Inference
+193,contribution,An Interactive Multi - Task Learning Network for End - to - End Aspect - Based Sentiment Analysis,Text Comprehension
+194,contribution,Graphical Abstract A Multi-task Learning Model for Chinese - oriented Aspect Polarity Classification and Aspect Term Extraction Highlights A Multi-task Learning Model for Chinese - oriented Aspect Polarity Classification and Aspect Term Extraction A Multi-task Learning Model for Chinese - oriented Aspect Polarity Classification and Aspect Term Extraction,Machine Reading
+195,contribution,Improved Semantic Representations From Tree - Structured Long Short - Term Memory Networks,Natural Language Inference
+196,contribution,Recurrent Attention Network on Memory for Aspect Sentiment Analysis,Semantic Sentence Matching
+197,contribution,Exploring Joint Neural Model for Sentence Level Discourse Parsing and Sentiment Analysis,Machine Comprehension
+198,contribution,Representation learning ) plays a critical role in many modern machine learning systems .,R
+199,contribution,A Helping Hand : Transfer Learning for Deep Sentiment Analysis,E
+200,contribution,Aspect Based Sentiment Analysis with Gated Convolutional Networks,A
+201,contribution,EEG - Based Emotion Recognition Using Regularized Graph Neural Networks,D
+202,contribution,Mazajak : An Online Arabic Sentiment Analyser,I
+203,contribution,Left - Center - Right Separated Neural Network for Aspect - based Sentiment Analysis with Rotatory Attention,N
+204,contribution,A Position - aware Bidirectional Attention Network for Aspect - level Sentiment Analysis,G
+205,contribution,MULTI - MODAL EMOTION RECOGNITION ON IEMOCAP WITH NEURAL NETWORKS, 
+206,contribution,DataStories at SemEval-2017 Task 4 : Deep LSTM with Attention for Message - level and Topic - based Sentiment Analysis,C
+207,contribution,Interactive Attention Networks for Aspect - Level Sentiment Classification,O
+208,contribution,BERT Post - Training for Review Reading Comprehension and Aspect - based Sentiment Analysis,M
+209,contribution,Hierarchical Attention Based Position-aware Network for Aspect-level Sentiment Analysis,P
+210,contribution,Attention - based LSTM for Aspect - level Sentiment Classification,R
+211,contribution,Exploiting Coarse - to - Fine Task Transfer for Aspect - level Sentiment Classification,E
+212,contribution,Context - Dependent Sentiment Analysis in User- Generated Videos,H
+213,contribution,Knowledge - Enriched Transformer for Emotion Detection in Textual Conversations,E
+214,contribution,Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos,N
+215,contribution,IARM : Inter-Aspect Relation Modeling with Memory Networks in Aspect - Based Sentiment Analysis,S
+216,contribution,Modeling Sentiment Dependencies with Graph Convolutional Networks for Aspect - level Sentiment Classification,I
+217,contribution,DialogueRNN : An Attentive RNN for Emotion Detection in Conversations,O
+218,contribution,ICON : Interactive Conversational Memory Network for Multimodal Emotion Detection,N
+219,contribution,Effective Attention Modeling for Aspect - Level Sentiment Classification,Community Question Answering ( c QA )
+220,contribution,A Multi-sentiment - resource Enhanced Attention Network for Sentiment Classification,natural language inference
+221,contribution,Progressive Self - Supervised Attention Learning for Aspect - Level Sentiment Analysis,Improved Sentence Representations
+222,contribution,Convolutional Neural Networks with Recurrent Neural Filters,Reading Comprehension and Question Answering
+223,contribution,A Novel Bi-hemispheric Discrepancy Model for EEG Emotion Recognition,RNN / CNN - Free Language Understanding
+224,contribution,Fine - grained Sentiment Classification using BERT,MACHINE COMPREHENSION
+225,contribution,Aspect Level Sentiment Classification with Attention - over - Attention Neural Networks,Recognizing textual entailment ( RTE )
+226,contribution,Improved Sentence Modeling using Suffix Bidirectional LSTM,Semantic Similarity Measurement
+227,contribution,Attentional Encoder Network for Targeted Sentiment Classification,Answer Sentence Selection
+228,contribution,MULTIMODAL SPEECH EMOTION RECOGNITION USING AUDIO AND TEXT,Information Retriever
+229,contribution,Variational Semi-supervised Aspect - term Sentiment Analysis via Transformer,Machine Reading Comprehension
+230,contribution,Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank,Text Matching
+231,contribution,Utilizing BERT for Aspect - Based Sentiment Analysis via Constructing Auxiliary Sentence,Semantic Parsing and Code Generation
+232,contribution,Sentiment Classification using Document Embeddings trained with Cosine Similarity,Neural Semantic Parsing
+233,contribution,Discriminative Neural Sentence Modeling by Tree - Based Convolution,Complex and Cross - Domain Semantic Parsing
+234,contribution,SentiHood : Targeted Aspect Based Sentiment Analysis Dataset for Urban Neighbourhoods,Text - to - SQL
+235,contribution,Multimodal Speech Emotion Recognition and Ambiguity Resolution,PASSAGE RE - RANKING
+236,contribution,Aspect Level Sentiment Classification with Deep Memory Network,Document Expansion
+237,contribution,Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification,Predicting Prosodic Prominence from Text
+238,contribution,Tha3aroon at NSURL - 2019 Task 8 : Semantic Question Similarity in Arabic,Visual Question Generation
+239,contribution,Learning Better Internal Structure of Words for Sequence Labeling,Neural Question Generation from Text
+240,contribution,TRANSFER LEARNING FOR SEQUENCE TAGGING WITH HIERARCHICAL RECURRENT NETWORKS,Paraphrase Generation
+241,contribution,Multilingual Part - of - Speech Tagging with Bidirectional Long Short - Term Memory Models and Auxiliary Loss,Learning Semantic Sentence Embeddings
+242,contribution,A Novel Neural Network Model for Joint POS Tagging and Graph - based Dependency Parsing,Multi-modal Sentiment Analysis
+243,contribution,End - to - end Sequence Labeling via Bi-directional LSTM-CNNs-CRF,Aspect Sentiment Classification
+244,contribution,Hierarchically - Refined Label Attention Network for Sequence Labeling,Target - Oriented Sentiment Classification
+245,contribution,Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings,Aspect - Level Sentiment Classification
+246,contribution,Robust Multilingual Part - of - Speech Tagging via Adversarial Training,Targeted Aspect - based Sentiment Analysis
+247,contribution,Adversarial Ranking for Language Generation,Aspect - level Sentiment Classification
+248,contribution,Long Text Generation via Adversarial Training with Leaked Information,Aspect - Based Sentiment Analysis
+249,contribution,An Auto - Encoder Matching Model for Learning Utterance - Level Semantic Dependency in Dialogue Generation,Aspect Polarity Classification and Aspect Term Extraction
+250,contribution,Generating Text through Adversarial Training using Skip - Thought Vectors,Improved Semantic Representations
+251,contribution,Improved Variational Autoencoders for Text Modeling using Dilated Convolutions,Aspect Sentiment Analysis
+252,contribution,"As a new way of training generative models , Generative Adversarial Net ( GAN ) that uses a discriminative model to guide the training of the generative model has enjoyed considerable success in generating real - valued data .",Sentence Level Discourse Parsing and Sentiment Analysis
+253,contribution,Learning document embeddings along with their uncertainties,Representation learning
+254,contribution,BI - DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION,Deep Sentiment Analysis
+255,contribution,Focal Visual - Text Attention for Visual Question Answering,Aspect Based Sentiment Analysis
+256,contribution,Multi - Granular Sequence Encoding via Dilated Compositional Units for Reading Comprehension,EEG - Based Emotion Recognition
+257,contribution,Densely Connected Attention Propagation for Reading Comprehension,Arabic Sentiment Analyser
+258,contribution,EVIDENCE AGGREGATION FOR ANSWER RE - RANKING IN OPEN - DOMAIN QUESTION ANSWERING,Aspect - based Sentiment Analysis
+259,contribution,Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering,Aspect - level Sentiment Analysis
+260,contribution,Linguistically - Informed Self - Attention for Semantic Role Labeling,MULTI - MODAL EMOTION RECOGNITION
+261,contribution,Deep Semantic Role Labeling : What Works and What 's Next,Message - level and Topic - based Sentiment Analysis
+262,contribution,Deep Semantic Role Labeling with Self - Attention,Aspect - Level Sentiment Classification
+263,contribution,A Span Selection Model for Semantic Role Labeling,Aspect - based Sentiment Analysis
+264,contribution,Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling,Aspect-level Sentiment Analysis
+265,contribution,NegBERT : A Transfer Learning Approach for Negation Detection and Scope Resolution,Aspect - level Sentiment Classification
+266,contribution,Relation Classification via Multi - Level Attention CNNs,Aspect - level Sentiment Classification
+267,contribution,Simple BERT Models for Relation Extraction and Semantic Role Labeling,Context - Dependent Sentiment Analysis
+268,contribution,Enriching Pre-trained Language Model with Entity Information for Relation Classification,Emotion Detection in Textual Conversations
+269,contribution,Neural Relation Extraction via Inner - Sentence Noise Reduction and Transfer Learning,Emotion Recognition in Dyadic Dialogue Videos
+270,contribution,Matching the Blanks : Distributional Similarity for Relation Learning,Aspect - Based Sentiment Analysis
+271,contribution,Context - Aware Representations for Knowledge Base Relation Extraction,Aspect - level Sentiment Classification
+272,contribution,Extracting Multiple - Relations in One - Pass with Pre-Trained Transformers,Emotion Detection in Conversations
+273,contribution,RESIDE : Improving Distantly - Supervised Neural Relation Extraction using Side Information,Multimodal Emotion Detection
+274,contribution,Span - Level Model for Relation Extraction,Aspect - Level Sentiment Classification
+275,contribution,"However , the ability to populate knowledge bases with facts automatically extracted from documents has improved frustratingly slowly .",Sentiment Classification
+276,contribution,Attention Guided Graph Convolutional Networks for Relation Extraction,Aspect - Level Sentiment Analysis
+277,contribution,Graph Convolution over Pruned Dependency Trees Improves Relation Extraction,L
+278,contribution,Going out on a limb : Joint Extraction of Entity Mentions and Relations without Dependency Trees,e
+279,contribution,Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks,a
+280,contribution,Hierarchical Neural Networks for Sequential Sentence Classification in Medical Scientific Abstracts,r
+281,contribution,Translations as Additional Contexts for Sentence Classification,n
+282,contribution,Structural Scaffolds for Citation Intent Classification in Scientific Publications,i
