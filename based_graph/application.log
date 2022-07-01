@@ -1,0 +1,710 @@
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Invalid type for input X. Expected ndarray/AmpligraphDataset object, got <class 'pandas.core.frame.DataFrame'>
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.01
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Input triples include one or more entities not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Input triples include one or more entities not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+ERROR - Input triples include one or more concepts not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+ERROR - Input triples include one or more concepts not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 20
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+ERROR - Invalid type for input X. Expected ndarray/AmpligraphDataset object, got <class 'pandas.core.frame.DataFrame'>
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 20
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 20
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 20
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 20
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 20
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 20
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 1e-05
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Removing 39 triples containing unseen entities. 
+ERROR - Input triples include one or more concepts not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Removing 39 triples containing unseen entities. 
+ERROR - Input triples include one or more concepts not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Removing 39 triples containing unseen entities. 
+ERROR - Input triples include one or more concepts not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+ERROR - Input triples include one or more concepts not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+ERROR - Input triples include one or more concepts not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+ERROR - Input triples include one or more concepts not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+ERROR - Input triples include one or more concepts not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+WARNING - DeprecationWarning: use_default_protocol will be removed in future. Please use corrupt_side argument instead.
+INFO - Removing 39 triples containing unseen entities. 
+ERROR - Input triples include one or more concepts not present in the training set. Please filter all concepts in X that do not occur in the training test (set filter_unseen=True in evaluate_performance) or retrain the model on a training set that includes all the desired concept types.
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - Will load model TransE.pkl.
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 10
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
