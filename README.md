@@ -2,6 +2,7 @@
 The NLPContributionGraph (NCG) challenge was organized in SemEval 2021 . The general task information is available here https://ncg-task.github.io/
 
 
+<<<<<<< HEAD
 
 ### Appraoch : the task is organized into two parts:
 
@@ -73,3 +74,8 @@ Topic modeling is an unsupervised technique to identify natural topics in the te
 
 https://github.com/TatianaMoteuN/ncg_challenge/blob/main/image.png
        
+=======
+The NLPContributionGraph (NCG) challenge was organized in SemEval 2021 . The general task information is available here https://ncg-task.github.io/
+
+
+>>>>>>> 136ecb4078fcb7c7168911d621e38da38a3f52ce
